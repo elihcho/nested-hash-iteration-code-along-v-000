@@ -22,7 +22,6 @@ def remove_strawberry(contacts)
           flavor == "strawberry"
         }
       end
-    binding.pry
    end
   end
 end
